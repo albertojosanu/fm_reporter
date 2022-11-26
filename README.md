@@ -1,3 +1,3 @@
 # Автоматизированная система налива
 
-ПО (.NET Framework) для взаимодействия с MS SQL. Интерфейс: Windows Forms 
+ПО (.NET Framework) для взаимодействия с MS SQL 2014. Интерфейс: Windows Forms 
